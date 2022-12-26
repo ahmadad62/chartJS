@@ -1,0 +1,22 @@
+{
+  "name": "chartjs",
+  "version": "1.0.0",
+  "description": "Chart.js is a free, open-source JavaScript library for data visualization, which supports eight chart types: bar, line, area, pie, bubble, radar, polar, and scatter. ## Refrences: - [youtube](https://www.youtube.com/watch?v=sE08f4iuOhA) - [ChartJS](https://www.chartjs.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadad62/chartJS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadad62/chartJS/issues"
+  },
+  "homepage": "https://github.com/ahmadad62/chartJS#readme",
+  "dependencies": {
+    "chart.js": "^4.1.1"
+  }
+}
